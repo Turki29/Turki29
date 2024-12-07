@@ -1,6 +1,6 @@
 ##  WELCOME - أرحب
 
-ENGLISH BIO IS DOWN AT LAST
+
 
 طالب علوم حاسوب، مطور بتقنية(ASP.NET).
 
