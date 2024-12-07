@@ -1,16 +1,20 @@
-## Hi there 👋
+##  WELCOME - أرحب
 
-<!--
-**Turki29/Turki29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ENGLISH BIO IS DOWN AT LAST
 
-Here are some ideas to get you started:
+طالب علوم حاسوب، مطور بتقنية)(ASP.NET).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- حاليا اشتغل على أعمال متفرقة
+- طالب ASp.NET 
+- 📫 للتواصل : TurkiMA1445@outlook.com
+- ⚡ لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة أدوات عربية
+
+Turki is a CS student, new asp.net developer, love to work on
+
+- currently working on nothing
+- learning ASP.NET
+
+- 📫 How to reach me: TurkiMA1445@outlook.com
+
+- ⚡ Fun fact: I love making arabic websites, and arabic tools 
+
