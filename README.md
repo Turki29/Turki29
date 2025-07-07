@@ -4,15 +4,14 @@
 
 طالب علوم حاسوب، مطور بتقنية(ASP.NET).
 
-- 🌠 حاليا اشتغل على أعمال متفرقة
+- 🌠 مطور برمجيات حرّة
 - ✨ أصمم ب،ASP.NET 
 - 📫 للتواصل : TurkiMA1445@outlook.com
-- ⚡ لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة أدوات عربية
+- ⚡ لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة الأدوات العربية
 
-Turki is a CS student, asp.net developer, love to work on
-
-- currently working on nothing
-- learning ASP.NET
+Turki is a CS student, asp.net developer.
+-🌠 freelancer
+-✨ working on ASP.NET
 
 - 📫 How to reach me: TurkiMA1445@outlook.com
 
