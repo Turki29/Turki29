@@ -9,7 +9,7 @@
 - 📫 للتواصل : TurkiMA1445@outlook.com
 - ⚡ لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة أدوات عربية
 
-Turki is a CS student, new asp.net developer, love to work on
+Turki is a CS student, asp.net developer, love to work on
 
 - currently working on nothing
 - learning ASP.NET
