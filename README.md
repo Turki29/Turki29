@@ -16,9 +16,9 @@ Turki is a CS student, asp.net developer.
 
 - ⚡ Fun fact: I love making arabic websites, and arabic tools 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
