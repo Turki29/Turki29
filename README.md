@@ -1,30 +1,19 @@
 ##  WELCOME - أرحب
 
 
-طالب علوم حاسوب، مطور بتقنية (ASP.NET) وأعمل أيضًا بـ React و Flutter مع تكامل Firebase و PostgreSQL و SQL Server، وأهتم بالبنية التحتية باستخدام Cloudflare مع Docker 
+مهندس برمجيات، مطور ويب وتطبيقات جوالات متخصص بتقنية (ASP.NET).
 
-- 🌠 مطور برمجيات حرّة  
-- ✨ أصمم وأطور باستخدام ASP.NET و React و Flutter  
-- 🗄️ أتعامل مع قواعد بيانات PostgreSQL و SQL Server  
-- ☁️ أستخدم Firebase و Cloudflare للحماية والأداء
-- أستخدم Docker  
+- 🌠 مطور برمجيات حرّة منذ سنتين وأكثر
 - 📫 للتواصل : TurkiMA1445@outlook.com  
-- ⚡ لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة الأدوات العربية  
+- ⚡لطيفة: أحب الشغل على المواقع العربية، وأحب صناعة الأدوات العربية  
 
 ---
 
 Turki is a CS student, ASP.NET developer, also working with React and Flutter, integrating Firebase, PostgreSQL, and SQL Server, with infrastructure experience using Cloudflare with docker
 
-- 🌠 freelancer  
-- ✨ developing with ASP.NET, React, and Flutter  
-- 🗄️ experienced in PostgreSQL and SQL Server  
-- ☁️ integrating Firebase and Cloudflare
-- use Docker
+- 🌠 freelancer for more than two years
 - 📫 How to reach me: TurkiMA1445@outlook.com  
 - ⚡ Fun fact: I love making arabic websites, and arabic tools  
-
-
-
 
 <p align="left">
 </p>
