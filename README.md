@@ -1,7 +1,5 @@
 # WELCOME — أرحب 👋
 
-## العربية
-
 مهندس برمجيات ومطور ويب وتطبيقات جوال، أعمل بشكل أساسي بتقنيات **ASP.NET**، مع خبرة في بناء وتطوير المنتجات البرمجية من الواجهات وحتى الأنظمة الخلفية والبنية التحتية.
 
 * 🚀 عملت على **أكثر من 8 مشاريع برمجية** في مجالات مختلفة
@@ -11,9 +9,6 @@
 * ⚡ أحب بناء المواقع والأدوات العربية وتطوير حلول عملية للمشكلات
 * 📫 للتواصل: **[TurkiMA1445@outlook.com](mailto:TurkiMA1445@outlook.com)**
 
----
-
-## English
 
 Software Engineer focused on **ASP.NET**, web development, and mobile applications, with experience building software products across backend, frontend, databases, and infrastructure.
 
