@@ -8,6 +8,7 @@
 * 🛠️ أعمل باستخدام ASP.NET، React، Flutter، PostgreSQL، SQL Server، Docker وCloudflare وغيرها
 * ⚡ أحب بناء المواقع والأدوات العربية وتطوير حلول عملية للمشكلات
 * 📫 للتواصل: **[TurkiMA1445@outlook.com](mailto:TurkiMA1445@outlook.com)**
+* 🌐 يمكنك زيارة موقعي والاطلاع على أعمالي ومشاريعي عبر turkialharbi.me
 
 
 Software Engineer focused on **ASP.NET**, web development, and mobile applications, with experience building software products across backend, frontend, databases, and infrastructure.
@@ -18,6 +19,7 @@ Software Engineer focused on **ASP.NET**, web development, and mobile applicatio
 * 🛠️ Working with ASP.NET, React, Flutter, PostgreSQL, SQL Server, Docker, and Cloudflare and others
 * ⚡ I enjoy building Arabic websites, tools, and practical software solutions
 * 📫 Reach me at: **[TurkiMA1445@outlook.com](mailto:TurkiMA1445@outlook.com)**
+* 🌐 Visit my website to learn more about me and see my work: turkialharbi.me
 
 ---
 
